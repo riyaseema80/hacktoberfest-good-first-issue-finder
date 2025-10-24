@@ -90,6 +90,9 @@ Good first issue finder is licensed under the MIT License - see the [LICENSE](LI
 
 Thanks a lot for spending your time helping Good first issue finder grow. Thanks a lot! Keep rocking 🍻
 
+- [Riya Seema](https://github.com/riyaseema80) 💫
+
+
 [![Contributors](https://contrib.rocks/image?repo=EddieHubCommunity/good-first-issue-finder)](https://github.com/EddieHubCommunity/good-first-issue-finder/graphs/contributors)
 
 ## 🙏 Support
